@@ -2,3 +2,4 @@ pandas==2.1.4
 jupyterlab==4.0.10
 jupyterlab-lsp==5.0.1
 jupyterlab-execute-time==3.1.0
+pdfplumber==0.10.3
